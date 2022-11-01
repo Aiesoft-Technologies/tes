@@ -9,7 +9,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Engineers, Welcome to Landmark Technologies DevOps Master Class. You are sudying Maven Build Tool. !! Today Date is:  " + getLocalCurrentDate());
+		System.out.println("Good news, Aiesoft Techologies is rebranding after 3 years of Operations.. for all IT needs contact us today on +2348038213580. !! Today Date is:  " + getLocalCurrentDate());
 
 	}
 
